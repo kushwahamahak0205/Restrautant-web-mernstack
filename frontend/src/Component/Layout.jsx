@@ -27,6 +27,8 @@ const Layout = () => {
             <Link to="/blog" style={{paddingLeft:"25px",textDecoration:"none"}}>
             Blog
             </Link>
+
+           
             </div>
 
             <div id="icon">

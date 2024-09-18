@@ -1,4 +1,5 @@
-import HoverCard from "../Home/HoverCard";
+// import HoverCard from "../Home/HoverCard";
+import Card from "../Home/Card";
 import TopNav from "../Home/TopNav";
 import Footer from "./Footer";
 
@@ -7,7 +8,8 @@ const Home = () => {
         <>
             <br/>
             <TopNav/>
-            <HoverCard/>
+            {/* <HoverCard/> */}
+            <Card/>
 
 
 
