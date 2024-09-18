@@ -1,0 +1,166 @@
+
+#nav{
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+    top: 0px;
+    align-items: center;
+    list-style: none;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    background-color: rgb(190, 182, 231);
+    color: white;
+}
+
+#nav label{
+    display: none;
+   }
+   #demo{
+    display: none;
+  }
+  #demo:checked~.nav link{
+    display: block;
+  }
+@media screen and (max-width:760px){
+    #nav label{
+        display:block;
+        color: rgb(8, 8, 8);
+    }
+    #icon{
+        display: none;
+    }
+    #link{
+        display: none;
+    }
+    #nav link {
+            display: block;
+            padding: 10px;
+        
+    }
+    #nav icon {
+        display: block;
+        padding: 10px;
+    
+}
+        #hero{
+            width: auto;
+            height: auto;
+            }
+}
+#card{
+    display: flex;
+    justify-content: space-around;
+    
+}
+@media screen and (max-width:760px){
+    #card{
+        display: block;
+    }
+}
+
+#c1{
+    background-image: url("src/image/berger.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+#c1:hover{
+    background-image: url("src/image/berger1.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+
+#c2{
+    background-image: url("src/image/pizza1.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+#c2:hover{
+    background-image: url("src/image/pizza2.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+#c3{
+    background-image: url("src/image/combo.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+#c3:hover{
+    background-image: url("src/image/combo1.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+#c4{
+    background-image: url("src/image/salad.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+#c4:hover{
+    background-image: url("src/image/salad1.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+
+
+
+
+
+footer{
+    background-color: black;
+    color:white;
+    padding: 10px 10px 20px;
+    flex-wrap: wrap;
+}
+.f1{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+}
+.footer1 li{
+    list-style: none;
+    margin: 10px;
+}
+.footer2 li{
+    list-style: none;
+    margin: 10px;
+}
+.footer3 li{
+    list-style: none;
+    margin: 10px;
+}
+.f2{
+    text-align: center;
+
+}
+
+.footer4 li{
+    display: inline;
+    margin: 10px;
+
+}
+.div5{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+footer i{
+    font-size: 25px;
+}
+.button{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+
+}
