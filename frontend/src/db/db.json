@@ -1,0 +1,137 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"WEEKENDER White Men's Sneakers",
+            "category":"men",
+            "brand":"WEEKENDER",
+            "price":"1700",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/WEEKENDER_WHT-NAVY_1.jpg?v=1724935195",
+             "offer":"yes",
+             "discount":20
+        },
+        {
+            "id":2,
+            "name":"Dress Sneakers:Black Tan",
+            "category":"men",
+            "brand":"Dress Sneakers",
+            "price":"2000",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/OG-33_BLK-D.GRY_1.jpg?v=1724935762",
+            "offer":"yes",
+            "discount":10
+        },
+        {
+            "id":3,
+            "name":"LAM Black Mens shoes",
+            "category":"men",
+            "brand":"LAM",
+            "price":"5000",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/LAM_BLK-ULTRAMARIN_1.jpg?v=1724936135",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":4,
+            "name":"LAM Grey Mens shoes",
+            "category":"men",
+            "brand":"LAM",
+            "price":"4500",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/LAM_L.GRY-BT.GRN_1.jpg?v=1724936074",
+            "offer":"yes",
+            "discount":40
+        },
+        {
+            "id":5,
+            "name":"GC-566 child sandal",
+            "category":"kids",
+            "brand":"GC-566",
+            "price":"1750",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/products/GC-2222K_GC-2222K_D.GRY-P.GRN_2.jpg?v=1670325658",
+            "offer":"yes",
+            "discount":15
+        },
+        {
+            "id":6,
+            "name":"GC-4003 Child Clogs",
+            "category":"kids",
+            "brand":"GC-4003",
+            "price":"2600",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/GC-4009C_GC-4009C_OFF-WHTNAVY_1.jpg?v=1723542217",
+            "offer":"yes",
+            "discount":20
+        },
+        {
+            "id":7,
+            "name":"SM-515 Cream Kid's Walking Shoes",
+            "category":"kids",
+            "brand":"SM-515 ",
+            "price":"1450",
+            "description":"",
+            "image":"https://www.campusshoes.com/cdn/shop/files/SM-515_SM-515_CRM-YLW_2_300x.jpg?v=1701148862",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":8,
+            "name":"SM-515 yellow Kid's Walking Shoes",
+            "category":"kids",
+            "brand":"SM-515 ",
+            "price":"500",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/products/T_J-06-MSTD-M-BLU_2.jpg?v=1670325828",
+            "offer":"yes",
+            "discount":5
+        },
+        {
+            "id":9,
+            "name":"MADRA Navy Women's Running shoes",
+            "category":"women",
+            "brand":"MADRA",
+            "price":"1500",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/MADRA_22L-943_NAVY-PINK_03.jpg?v=1719488049",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":10,
+            "name":"SELICAN Mauve Women's Sneakers",
+            "category":"women",
+            "brand":"SELICAN ",
+            "price":"1900",
+            "description":"",
+            "image":"https://www.campusshoes.com/cdn/shop/files/SELICAN_22L-938_MAUVE_B.PINK_03_300x.jpg?v=1719487865",
+            "offer":"no",
+            "discount":0
+        },
+        {
+            "id":11,
+            "name":"KEREN Blue Women's Running Shoes",
+            "category":"women",
+            "brand":"KEREN ",
+            "price":"3800",
+            "description":"",
+            "image":"https://cdn.shopify.com/s/files/1/0607/6678/1671/products/KEREN_6L-109_BLU-T.BLU_2_a59334cd-b54f-4637-9323-41b750428401_360x.jpg?v=1670326006",
+            "offer":"yes",
+            "discount":10
+        },
+        {
+            "id":12,
+            "name":"MASON White Women's Walking Shoes",
+            "category":"women",
+            "brand":"MASON",
+            "price":"5200",
+            "description":"",
+            "image":"https://www.campusshoes.com/cdn/shop/files/MASON_22L-951_WHT_L.PINK_1_300x.jpg?v=1723016346",
+            "offer":"yes",
+            "discount":20
+        }
+    
+]
+}
