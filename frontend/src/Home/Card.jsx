@@ -23,17 +23,22 @@ const Card = () => {
         
         navigate("/biryani")
       }
+      const handle6=()=>{
+        
+        navigate("/berger")
+      }
        
     
     return ( 
         <>
             <div>
-                <img src="src/image/piza.avif" onClick={handle}/>
-                <img src="src/image/north_indian.avif" onClick={handle2}/>
-                <img src="src/image/noodles.avif" onClick={handle3}/>
-                <img src="src/image/paratha.avif" onClick={handle4}/>
-                <img src="src/image/biryani.avif" onClick={handle5}/>
-               
+                <img src="src/image/piza.avif" style={{width:"200px"}} onClick={handle}/>
+                <img src="src/image/north_indian.avif" style={{width:"200px"}} onClick={handle2}/>
+                <img src="src/image/noodles.avif" style={{width:"200px"}} onClick={handle3}/>
+                <img src="src/image/paratha.avif" style={{width:"200px"}} onClick={handle4}/>
+                <img src="src/image/biryani.avif" style={{width:"200px"}} onClick={handle5}/>
+                <img src="src/image/bergerrrrr.avif" style={{width:"200px"}} onClick={handle6}/>
+
                 <hr color="lightblack"></hr>
             </div>
         </>

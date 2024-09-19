@@ -4,13 +4,10 @@ import { useEffect, useState } from "react";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-
 import { useDispatch } from "react-redux";
 import { addcartData } from "../addtocartSlice";
 
 const Biryani = () => {
-
-    
 
    const [mydata,setmydata]=useState([]);
    const dispatch=useDispatch()

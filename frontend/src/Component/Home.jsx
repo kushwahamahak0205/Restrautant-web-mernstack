@@ -1,20 +1,20 @@
-// import HoverCard from "../Home/HoverCard";
+
 import Card from "../Home/Card";
-import TopNav from "../Home/TopNav";
-import Footer from "./Footer";
+import Hero from "../Home/Hero";
+
+
 
 const Home = () => {
     return ( 
         <>
-            <br/>
-            <TopNav/>
-            {/* <HoverCard/> */}
+           
+            <Hero/>
             <Card/>
 
 
 
 
-            <Footer/>
+           
         </>
      );
 }

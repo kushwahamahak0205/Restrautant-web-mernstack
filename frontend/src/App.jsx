@@ -9,6 +9,8 @@ import Noodles from "./Card/Noodles";
 import Paratha from "./Card/Paratha";
 import Biryani from "./Card/Biryani";
 import NorthIndian from "./Card/NorthIndian";
+import Berger from "./Card/Berger";
+import Customer from "./Component/Customer";
 
 const App = () => {
     return ( 
@@ -19,11 +21,13 @@ const App = () => {
                     <Route index element={<Home/>}/>
                     <Route path="/home" element={<Home/>}/>
                     <Route path="/blog" element={<Blog/>}/>
+                    <Route path="/customer" element={<Customer/>}/>
                     <Route path="/pizza" element={<Pizza/>}/>
                     <Route path="/noodles" element={<Noodles/>}/>
                     <Route path="/paratha" element={<Paratha/>}/>
                     <Route path="/biryani" element={<Biryani/>}/>
                     <Route path="/north" element={<NorthIndian/>}/>
+                    <Route path="/berger" element={<Berger/>}/>
 
                     </Route>
                 </Routes>
