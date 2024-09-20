@@ -3,7 +3,7 @@ const Blog = () => {
         <> 
         <h1 style={{textAlign:"center"}}>BLOG </h1>
         <br/>
-        <div  id="BLOG">
+        <div  id="BLOG-PAGE">
         <div id="blimg">
             <img src="src/image/blog.jpg" style={{width:"500px",height:"200px"}}/>
             </div>
