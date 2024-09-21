@@ -9,7 +9,7 @@ const Blog = () => {
             </div>
            
             <div id="blog">
-            <h4>we are dedicated to providing an exceptional experience that goes beyond just a place to stay.
+            <h4>we are deicated to providing an exceptional experience that goes beyond just a place to stay.
             <br/> Our range of services is designed to ensure
             <br/> that every moment of your visit is comfortable, convenient, and memorable</h4>
             </div>
