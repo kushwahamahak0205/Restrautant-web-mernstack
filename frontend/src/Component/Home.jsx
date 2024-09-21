@@ -7,7 +7,7 @@ import Hero from "../Home/Hero";
 const Home = () => {
     return ( 
         <>
-           
+           home page
             <Hero/>
             <Card/>
 
